@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Apps on By Marcelo Lewin</title><link>https://www.bymarcelolewin.com/apps/</link><description>Recent content in Apps on By Marcelo Lewin</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.bymarcelolewin.com/apps/index.xml" rel="self" type="application/rss+xml"/><item><title>Content Modeling CLI</title><link>https://www.bymarcelolewin.com/apps/content-modeling-cli/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bymarcelolewin.com/apps/content-modeling-cli/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>An MCP Server and CLI for content modeling in Contentful, purpose-built for content modeling architects, developers and teams working in Contentful.&lt;/p>
+&lt;p>Define content types, fields, and relationships using clean, structured JSON—no scripting or programming required. Create reusable components with predefined options and default values, and apply them across models for consistency and speed.&lt;/p>
+&lt;p>Templatize entire content models, enhance clarity with emoji support via a centralized library, and organize your work using a project-based structure.&lt;/p></description></item><item><title>Galactic Invaders</title><link>https://www.bymarcelolewin.com/apps/galactic-invaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bymarcelolewin.com/apps/galactic-invaders/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>A 2D retro-style space shooter where you protect your city from incoming waves of aliens. Shoot them down, earn temporary rapid-fire during bonus moments, and unlock nukes as your score increases. The goal is straightforward: stay alive and keep the city safe.&lt;/p>
+&lt;h3 id="how-to-play">How to Play&lt;/h3>
+&lt;ol>
+&lt;li>Use ←, ↑, →, ↓ or [WASD] to move your spaceship&lt;/li>
+&lt;li>Press [Space] to shoot&lt;/li>
+&lt;li>Press [Q] to activate the nuke (when available)&lt;/li>
+&lt;li>Press [M] to toggle sound on/off&lt;/li>
+&lt;li>Destroy aliens to earn points&lt;/li>
+&lt;li>Avoid getting hit by aliens.&lt;/li>
+&lt;li>Stop the aliens from destroying your city.&lt;/li>
+&lt;li>Try to achieve the highest score possible!&lt;/li>
+&lt;/ol>
+&lt;h3 id="features">Features&lt;/h3>
+&lt;ul>
+&lt;li>Smooth player movement with keyboard controls&lt;/li>
+&lt;li>Dynamic shooting mechanics&lt;/li>
+&lt;li>Progressive difficulty with increasing alien waves&lt;/li>
+&lt;li>Score tracking and lives system&lt;/li>
+&lt;li>Sound effects and visual feedback&lt;/li>
+&lt;li>Special nuke power-up to clear the screen&lt;/li>
+&lt;li>Scrolling starfield background for immersive space atmosphere&lt;/li>
+&lt;/ul>
+&lt;h3 id="controls">Controls&lt;/h3>
+&lt;ul>
+&lt;li>←, ↑, →, ↓ or [WASD] : Move&lt;/li>
+&lt;li>[Space] : Shoot&lt;/li>
+&lt;li>[Q] : Activate nuke (when available)&lt;/li>
+&lt;li>[M] : Toggle sound on/off&lt;/li>
+&lt;/ul>
+&lt;h3 id="why-i-created-it">Why I Created It&lt;/h3>
+&lt;p>I created this game as an experiment in learning Vibe Coding techniques and exploring AI-assisted development tools. I have zero game dev experience, so I figured, if I can, then anyone else can. I did. Now you can too!&lt;/p></description></item><item><title>Hugo Powered Website</title><link>https://www.bymarcelolewin.com/apps/hugo-powered-website/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.bymarcelolewin.com/apps/hugo-powered-website/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>This (where you are at now) is the first site I&amp;rsquo;ve vibe coded from scratch. After relying on tools like Wix and Framer, I wanted full control again—and I got it. It&amp;rsquo;s also my first time using the Hugo SSG framwework, and I&amp;rsquo;m quickly seeing the benefits of static site generators: fast performance, a lightweight codebase, and clean, responsive output.&lt;/p>
+&lt;h3 id="technology-stack">Technology Stack&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Hugo&lt;/strong> : Static site generator with custom theme architecture&lt;/li>
+&lt;li>&lt;strong>SCSS/Sass&lt;/strong> : Modular CSS preprocessing with design system variables and mixins&lt;/li>
+&lt;li>&lt;strong>HTML5&lt;/strong> : Semantic markup with Hugo templating engine&lt;/li>
+&lt;li>&lt;strong>CSS Grid &amp;amp; Flexbox&lt;/strong> : Modern layout systems for responsive design&lt;/li>
+&lt;li>&lt;strong>Hugo Pipes&lt;/strong> : Asset processing pipeline for SCSS compilation and minification&lt;/li>
+&lt;li>&lt;strong>Markdown&lt;/strong> : Content authoring with front matter configuration&lt;/li>
+&lt;li>&lt;strong>Git&lt;/strong> : Version control and GitHub Pages deployment&lt;/li>
+&lt;li>&lt;strong>GitHub Pages&lt;/strong> : Static site hosting and continuous deployment&lt;/li>
+&lt;li>&lt;strong>Custom Design System&lt;/strong> : Component-based CSS architecture with utility classes&lt;/li>
+&lt;li>&lt;strong>Responsive Design&lt;/strong> : Mobile-first approach with consistent breakpoints&lt;/li>
+&lt;li>&lt;strong>CSS Custom Properties&lt;/strong> : Dynamic theming and runtime style management&lt;/li>
+&lt;li>&lt;strong>Hugo Taxonomies&lt;/strong> : Content organization and navigation structure&lt;/li>
+&lt;/ul>
+&lt;h3 id="tools-used">Tools Used&lt;/h3>
+&lt;ul>
+&lt;li>Cursor&lt;/li>
+&lt;li>Claude Code&lt;/li>
+&lt;li>Cursor Chat (with Claude 4 Sonnet, Gemini Flash 2.5, Deepseek-v3.1)&lt;/li>
+&lt;li>Gemini Code Assist / CLI&lt;/li>
+&lt;li>ChatGPT&lt;/li>
+&lt;li>Claude Desktop&lt;/li>
+&lt;li>Repo Prompt&lt;/li>
+&lt;/ul></description></item></channel></rss>
