@@ -32,7 +32,7 @@
 &lt;li>[M] : Toggle sound on/off&lt;/li>
 &lt;/ul>
 &lt;h3 id="why-i-created-it">Why I Created It&lt;/h3>
-&lt;p>I created this game as an experiment in learning Vibe Coding techniques and exploring AI-assisted development tools. I have zero game dev experience, so I figured, if I can, then anyone else can. I did. Now you can too!&lt;/p></description></item><item><title>Hugo Powered Website</title><link>https://www.icodewith.ai/apps/hugo-powered-website/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/hugo-powered-website/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>I created this game as an experiment in learning Vibe Coding techniques and exploring AI-assisted development tools. I have zero game dev experience, so I figured, if I can, then anyone else can. I did. Now you can too!&lt;/p></description></item><item><title>iCodeWith.ai Website</title><link>https://www.icodewith.ai/apps/i-code-with-ai-website/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/i-code-with-ai-website/</guid><description>&lt;h3 id="about">About&lt;/h3>
 &lt;p>This (where you are at now) is the first site I&amp;rsquo;ve vibe coded from scratch. After relying on tools like Wix and Framer, I wanted full control again—and I got it. It&amp;rsquo;s also my first time using the Hugo SSG framwework, and I&amp;rsquo;m quickly seeing the benefits of static site generators: fast performance, a lightweight codebase, and clean, responsive output.&lt;/p>
 &lt;h3 id="technology-stack">Technology Stack&lt;/h3>
 &lt;ul>
