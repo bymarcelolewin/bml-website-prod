@@ -57,4 +57,19 @@
 &lt;li>ChatGPT&lt;/li>
 &lt;li>Claude Desktop&lt;/li>
 &lt;li>Repo Prompt&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>TreeX</title><link>https://www.icodewith.ai/apps/treex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/treex/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>TreeX is a cross-platform CLI tool for visualizing and exporting folder structures. It provides emoji-based directory trees with extensive export capabilities to multiple formats text documents and images.&lt;/p>
+&lt;h3 id="features">Features&lt;/h3>
+&lt;ul>
+&lt;li>🎨 &lt;strong>Emoji Display&lt;/strong> - Folder 📂, file 📄, hidden 🫥, and locked 🔒 icons&lt;/li>
+&lt;li>📤 &lt;strong>Multi-Format Export&lt;/strong> - SVG, PNG, WebP, and Markdown with perfect emoji rendering&lt;/li>
+&lt;li>⚡ &lt;strong>Smart Filtering&lt;/strong> - Configurable ignore lists and display options&lt;/li>
+&lt;li>🔍 &lt;strong>Detailed Information&lt;/strong> - File permissions, hidden file detection and more&lt;/li>
+&lt;li>🎯 &lt;strong>Flexible Output&lt;/strong> - Console display or export to files&lt;/li>
+&lt;li>🌍 &lt;strong>Cross-Platform&lt;/strong> - Works on Windows, macOS, and Linux&lt;/li>
+&lt;li>🎨 &lt;strong>Emoji Management&lt;/strong> - Customize folder, file, and status emojis with easy list, update, and restore&lt;/li>
+&lt;/ul>
+&lt;h2 id="-installation">🚀 Installation&lt;/h2>
+&lt;h3 id="option-1-install-from-npm-recommended">Option 1: Install from NPM (Recommended)&lt;/h3>
+&lt;pre tabindex="0">&lt;code>npm install -g @icodewith-ai/treex
+&lt;/code>&lt;/pre>&lt;p>&lt;strong>Note for Linux users:&lt;/strong> You may need to use &lt;code>sudo&lt;/code>:&lt;/p></description></item></channel></rss>
