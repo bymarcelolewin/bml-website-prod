@@ -23,8 +23,7 @@
 &lt;/ul>
 &lt;h2 id="resources-to-check-out">Resources to Check Out&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://kiro.dev/docs/hooks/">Kiro Documentation: Hooks Overview – Agent Hooks introduction, setup, trigger types, and workflow&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://kiro.dev/blog/automate-your-development-workflow-with-agent-hooks/">Kiro Blog: Automate Your Development Workflow with Kiro’s AI Agent Hooks – real‑world use cases and how‑to guide&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://dev.to/czmilo/kiro-hooks-complete-documentation-guide-3pm0">Dev.to Guide: Kiro Hooks Complete Documentation Guide – detailed breakdown of hook types, configurations, best practices&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://kiro.dev/blog/introducing-kiro/">Kiro Blog: Introducing Kiro – context on spec‑driven development, hooks, and overall workflow philosophy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kiro.dev/docs/hooks/">Kiro Documentation: Hooks Overview&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kiro.dev/blog/automate-your-development-workflow-with-agent-hooks/">Kiro Blog: Automate Your Development Workflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dev.to/czmilo/kiro-hooks-complete-documentation-guide-3pm0">Dev.to Guide: Kiro Hooks Complete Documentation Guide &lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
