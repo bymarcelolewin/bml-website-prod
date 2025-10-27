@@ -12,7 +12,18 @@
 &lt;/ul>
 &lt;h2 id="-getting-started">🚀 Getting Started&lt;/h2>
 &lt;h3 id="prerequisites">Prerequisites&lt;/h3>
-&lt;p>Before you begin, ensure you have:&lt;/p></description></item><item><title>Content Modeling CLI</title><link>https://www.icodewith.ai/apps/content-modeling-cli/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/content-modeling-cli/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>Before you begin, ensure you have:&lt;/p></description></item><item><title>CheckInto App</title><link>https://www.icodewith.ai/apps/checkinto-app/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/checkinto-app/</guid><description>&lt;p>A mobile-first web application that enables seamless self-service check-in for in-person community event attendees with real-time raffle functionality and full multi-tenant support.&lt;/p>
+&lt;h2 id="purpose">Purpose&lt;/h2>
+&lt;p>This application streamlines the check-in process for community events by providing a simple, branded experience that:&lt;/p>
+&lt;ul>
+&lt;li>Eliminates manual attendance tracking&lt;/li>
+&lt;li>Collects attendee information digitally&lt;/li>
+&lt;li>Provides venue details to checked-in attendees&lt;/li>
+&lt;li>Enables real-time raffle winner announcements during events&lt;/li>
+&lt;li>Scales to support multiple community organizers through subdomain architecture&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-it-works">How It Works&lt;/h2>
+&lt;p>&lt;strong>For Attendees:&lt;/strong>&lt;/p></description></item><item><title>Content Modeling CLI</title><link>https://www.icodewith.ai/apps/content-modeling-cli/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/content-modeling-cli/</guid><description>&lt;h3 id="about">About&lt;/h3>
 &lt;p>An MCP Server and CLI for content modeling in Contentful, purpose-built for content modeling architects, developers and teams working in Contentful.&lt;/p>
 &lt;p>Define content types, fields, and relationships using clean, structured JSON—no scripting or programming required. Create reusable components with predefined options and default values, and apply them across models for consistency and speed.&lt;/p>
 &lt;p>Templatize entire content models, enhance clarity with emoji support via a centralized library, and organize your work using a project-based structure.&lt;/p></description></item><item><title>Galactic Invaders</title><link>https://www.icodewith.ai/apps/galactic-invaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/galactic-invaders/</guid><description>&lt;h3 id="about">About&lt;/h3>
