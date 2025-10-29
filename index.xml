@@ -23,8 +23,12 @@
 &lt;/ol>
 &lt;h2 id="resources-to-check-out">Resources to Check Out&lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://github.com/adamshostack/4QuestionFrame">Adam Shostack&amp;rsquo;s 4 question framework&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openssf.org/projects/scorecard/">OpenSSF scorecard&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mvsp.dev/">Minimum Viable Secure Product&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://owasp.org/asvs">OWASP Application Security Verification Standard&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.bouncesecurity.com/">Bounce Security&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://www.icodewith.ai/faq/am-i-a-vibe-coder/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/faq/am-i-a-vibe-coder/</guid><description>&lt;p>Vibe coders are people who use AI to build software without writing code themselves.&lt;/p>
+&lt;/ul></description></item><item><title>Using the ReAct Method to Guide AI to Build Better Apps</title><link>https://www.icodewith.ai/blog/using-the-react-method-to-guide-ai-to-build-better-apps/</link><pubDate>Tue, 28 Oct 2025 16:53:17 -0700</pubDate><guid>https://www.icodewith.ai/blog/using-the-react-method-to-guide-ai-to-build-better-apps/</guid><description>Learn how the ReAct (Reason + Act) method works and how you can use it to guide AI into building better apps, workflows, or prototypes.</description></item><item><title/><link>https://www.icodewith.ai/faq/am-i-a-vibe-coder/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/faq/am-i-a-vibe-coder/</guid><description>&lt;p>Vibe coders are people who use AI to build software without writing code themselves.&lt;/p>
 &lt;ul>
 &lt;li>You have great ideas but may lack traditional programming skills.&lt;/li>
 &lt;li>You work by telling the AI tools what you want, iterating through conversation, experimentation, and intuition until something works.&lt;/li>
