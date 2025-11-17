@@ -1,5 +1,5 @@
 
-# Production robots.txt for www.icodewith.ai
+# Production robots.txt for www.ibuildwith.ai
 # Allow all search engines to crawl the site
 
 User-agent: *
