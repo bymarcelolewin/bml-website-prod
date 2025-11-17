@@ -6,7 +6,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.icodewith.ai/sitemap.xml
+Sitemap: https://www.ibuildwith.ai/sitemap.xml
 
 # Specific crawler optimizations
 User-agent: Googlebot

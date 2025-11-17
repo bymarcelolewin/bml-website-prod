@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Apps on iCodeWith.ai | From Vibe Coder to Product Builder</title><link>https://www.icodewith.ai/apps/</link><description>Recent content in Apps on iCodeWith.ai | From Vibe Coder to Product Builder</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.icodewith.ai/apps/index.xml" rel="self" type="application/rss+xml"/><item><title>CARE Assistant</title><link>https://www.icodewith.ai/apps/care-assistant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/care-assistant/</guid><description>&lt;p>An AI-powered insurance coverage assistant that helps users understand their healthcare benefits.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Apps on iCodeWith.ai | From Vibe Coder to Product Builder</title><link>https://www.ibuildwith.ai/apps/</link><description>Recent content in Apps on iCodeWith.ai | From Vibe Coder to Product Builder</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.ibuildwith.ai/apps/index.xml" rel="self" type="application/rss+xml"/><item><title>CARE Assistant</title><link>https://www.ibuildwith.ai/apps/care-assistant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ibuildwith.ai/apps/care-assistant/</guid><description>&lt;p>An AI-powered insurance coverage assistant that helps users understand their healthcare benefits.&lt;/p>
 &lt;h2 id="-architecture">🏗️ Architecture&lt;/h2>
 &lt;ul>
 &lt;li>&lt;strong>Backend&lt;/strong>: Python 3.13 with FastAPI&lt;/li>
@@ -12,7 +12,7 @@
 &lt;/ul>
 &lt;h2 id="-getting-started">🚀 Getting Started&lt;/h2>
 &lt;h3 id="prerequisites">Prerequisites&lt;/h3>
-&lt;p>Before you begin, ensure you have:&lt;/p></description></item><item><title>CheckInto App</title><link>https://www.icodewith.ai/apps/checkinto-app/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/checkinto-app/</guid><description>&lt;p>A mobile-first web application that enables seamless self-service check-in for in-person community event attendees with real-time raffle functionality and full multi-tenant support.&lt;/p>
+&lt;p>Before you begin, ensure you have:&lt;/p></description></item><item><title>CheckInto App</title><link>https://www.ibuildwith.ai/apps/checkinto-app/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ibuildwith.ai/apps/checkinto-app/</guid><description>&lt;p>A mobile-first web application that enables seamless self-service check-in for in-person community event attendees with real-time raffle functionality and full multi-tenant support.&lt;/p>
 &lt;h2 id="purpose">Purpose&lt;/h2>
 &lt;p>This application streamlines the check-in process for community events by providing a simple, branded experience that:&lt;/p>
 &lt;ul>
@@ -23,10 +23,10 @@
 &lt;li>Scales to support multiple community organizers through subdomain architecture&lt;/li>
 &lt;/ul>
 &lt;h2 id="how-it-works">How It Works&lt;/h2>
-&lt;p>&lt;strong>For Attendees:&lt;/strong>&lt;/p></description></item><item><title>Content Modeling CLI</title><link>https://www.icodewith.ai/apps/content-modeling-cli/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/content-modeling-cli/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>&lt;strong>For Attendees:&lt;/strong>&lt;/p></description></item><item><title>Content Modeling CLI</title><link>https://www.ibuildwith.ai/apps/content-modeling-cli/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ibuildwith.ai/apps/content-modeling-cli/</guid><description>&lt;h3 id="about">About&lt;/h3>
 &lt;p>An MCP Server and CLI for content modeling in Contentful, purpose-built for content modeling architects, developers and teams working in Contentful.&lt;/p>
 &lt;p>Define content types, fields, and relationships using clean, structured JSON—no scripting or programming required. Create reusable components with predefined options and default values, and apply them across models for consistency and speed.&lt;/p>
-&lt;p>Templatize entire content models, enhance clarity with emoji support via a centralized library, and organize your work using a project-based structure.&lt;/p></description></item><item><title>Galactic Invaders</title><link>https://www.icodewith.ai/apps/galactic-invaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/galactic-invaders/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>Templatize entire content models, enhance clarity with emoji support via a centralized library, and organize your work using a project-based structure.&lt;/p></description></item><item><title>Galactic Invaders</title><link>https://www.ibuildwith.ai/apps/galactic-invaders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ibuildwith.ai/apps/galactic-invaders/</guid><description>&lt;h3 id="about">About&lt;/h3>
 &lt;p>A 2D retro-style space shooter where you protect your city from incoming waves of aliens. Shoot them down, earn temporary rapid-fire during bonus moments, and unlock nukes as your score increases. The goal is straightforward: stay alive and keep the city safe.&lt;/p>
 &lt;h3 id="how-to-play">How to Play&lt;/h3>
 &lt;ol>
@@ -56,7 +56,7 @@
 &lt;li>[Q] : Activate nuke (when available)&lt;/li>
 &lt;li>[M] : Toggle sound on/off&lt;/li>
 &lt;/ul>
-&lt;p>Other Controls&lt;/p></description></item><item><title>iCodeWith.ai Website</title><link>https://www.icodewith.ai/apps/i-code-with-ai-website/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/i-code-with-ai-website/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;p>Other Controls&lt;/p></description></item><item><title>iCodeWith.ai Website</title><link>https://www.ibuildwith.ai/apps/i-code-with-ai-website/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ibuildwith.ai/apps/i-code-with-ai-website/</guid><description>&lt;h3 id="about">About&lt;/h3>
 &lt;p>First site I&amp;rsquo;ve built from scratch using vibe coding techniques. After relying on tools like Wix and Framer, I wanted full control over what I create. It&amp;rsquo;s also my first time using the Hugo SSG framwework, and I&amp;rsquo;m quickly seeing the benefits of static site generators: fast performance, a lightweight codebase, and clean, responsive output.&lt;/p>
 &lt;h3 id="technology-stack">Technology Stack&lt;/h3>
 &lt;ul>
@@ -82,7 +82,7 @@
 &lt;li>ChatGPT&lt;/li>
 &lt;li>Claude Desktop&lt;/li>
 &lt;li>Repo Prompt&lt;/li>
-&lt;/ul></description></item><item><title>TreeX</title><link>https://www.icodewith.ai/apps/treex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.icodewith.ai/apps/treex/</guid><description>&lt;h3 id="about">About&lt;/h3>
+&lt;/ul></description></item><item><title>TreeX</title><link>https://www.ibuildwith.ai/apps/treex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ibuildwith.ai/apps/treex/</guid><description>&lt;h3 id="about">About&lt;/h3>
 &lt;p>TreeX is a cross-platform CLI tool for visualizing and exporting folder structures. It provides emoji-based directory trees with extensive export capabilities to multiple formats text documents and images.&lt;/p>
 &lt;h3 id="features">Features&lt;/h3>
 &lt;ul>
