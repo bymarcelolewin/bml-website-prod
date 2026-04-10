@@ -23,8 +23,7 @@ Disallow: /.git/
 # Allow access to all content types
 Allow: /blog/
 Allow: /podcast/
-Allow: /videos/
-Allow: /events/
-Allow: /apps/
+Allow: /presentations/
 Allow: /about-marcelo/
 Allow: /contact/
+Allow: /newsletter/
